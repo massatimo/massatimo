@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate with friends on this platform and elswhere
 - 📫 How to reach me ...
 - Email massatimo@gmail.com
-- Facebook @massa timo
-- Twitter @massa timo
+- Facebook @https://www.facebook.com/massatimo01
+- Twitter @https://twitter.com/MassaTimo
 
 <!---
 massatimo/massatimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
